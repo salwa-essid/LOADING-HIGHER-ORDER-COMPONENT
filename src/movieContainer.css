@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+}
+.first-inner-header{
+    width: 45%;
+}
+.search{
+    width : 50%;
+}
+.second-inner-header{
+    padding: 1rem 0;
+    line-height: 0.1rem;
+    text-align: center;
+}
